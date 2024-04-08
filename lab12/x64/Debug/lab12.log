@@ -1,0 +1,8 @@
+﻿  Car.cpp
+  lab12.cpp
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab12\lab12.cpp(121,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab12\lab12.cpp(139,27): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab12\lab12.cpp(155,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab12\lab12.cpp(164,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  lab12.vcxproj -> C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab12\x64\Debug\lab12.exe
