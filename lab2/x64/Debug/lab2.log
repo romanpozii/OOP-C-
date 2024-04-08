@@ -1,0 +1,7 @@
+﻿  Developer.cpp
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab2\Developer.cpp(7,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab2\Developer.cpp(16,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  TeamLeader.cpp
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab2\TeamLeader.cpp(18,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  lab2.vcxproj -> C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab2\x64\Debug\lab2.exe
