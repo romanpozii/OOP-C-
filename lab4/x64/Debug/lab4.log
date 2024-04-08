@@ -1,0 +1,15 @@
+﻿  lab4.cpp
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab4\lab4.cpp(62,62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab4\lab4.cpp(146,30): warning C4305: 'argument': truncation from 'double' to 'const _Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab4\lab4.cpp(148,23): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab4\lab4.cpp(189,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab4\lab4.cpp(193,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  lab4.vcxproj -> C:\Users\rpozi\Desktop\учеба\semestr5\c++\lab4\x64\Debug\lab4.exe
